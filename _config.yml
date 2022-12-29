@@ -1,5 +1,5 @@
 # Site settings
-title: Rob Hinds
+title: Gaurav Talwar
 twitter_username: rob_hinds
 name: Rob Hinds
 
@@ -9,18 +9,11 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/talwarg
  - title: LinkedIn
    url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+
 
 #Any buzzword skills you want to include
 skills:
@@ -39,16 +32,14 @@ skills:
  - REST
  - Technical Architecture
  - Machine learning
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+ 
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Partnership Management
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
+   employer: Continental AG
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Senior Engineer
    start: 2016
@@ -68,10 +59,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
+ - level: Master in Business administration (MBA)
+   date: 2005
    subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   school: FH Coburg
 
 #This section is optional (as is the image link below)
 coursera:
@@ -97,19 +88,6 @@ speakerdeck:
     - title: Agile Machine Learning - from Theory to Production
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
-
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
 stackoverflow:
